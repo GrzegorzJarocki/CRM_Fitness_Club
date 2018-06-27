@@ -72,10 +72,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="workspace.xml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="workspace.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-11646" />
+            <state relative-caret-position="-14406" />
           </provider>
         </entry>
       </file>
@@ -91,7 +91,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FitnessClub.iml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="FitnessClub.iml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/FitnessClub.iml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="15">
@@ -614,16 +614,15 @@
       <workItem from="1529607860981" duration="5675000" />
       <workItem from="1529652120959" duration="13029000" />
       <workItem from="1529928282303" duration="157000" />
-      <workItem from="1530115823408" duration="2086000" />
+      <workItem from="1530115823408" duration="2556000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="131287000" />
+    <option name="totallyTimeSpent" value="131757000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="64" y="-11" width="1857" height="1092" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -975,11 +974,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-11646" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -995,6 +989,11 @@
         <state relative-caret-position="15">
           <caret line="1" column="30" selection-start-line="1" selection-start-column="30" selection-end-line="1" selection-end-column="30" />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-14406" />
       </provider>
     </entry>
   </component>
